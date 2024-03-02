@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.unitau.inf.cursos.CursosApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.861 s - in br.unitau.inf.cursos.CursosApplicationTests
